@@ -1,4 +1,4 @@
-# Bank-Churn-Customer-Analysis# Bank Customer Churn Analysis
+# Bank-Churn-Customer-Analysis
 
 A data‐driven analysis of bank customer churn using MySQL, Python (Jupyter Notebook), Google Sheets, and Streamlit. 
 ---
